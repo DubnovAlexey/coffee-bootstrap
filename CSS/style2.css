@@ -83,3 +83,22 @@ body {
 footer p {
     margin: 0;
 }
+.blink-btn {
+    background-color: #ff6600;
+    border: none;
+    color: white;
+    font-size: 20px;
+    padding: 12px 24px;
+    border-radius: 10px;
+}
+
+
+@keyframes blink {
+    0%   { opacity: 1; }
+    50%  { opacity: 0.4; }
+    100% { opacity: 1; }
+}
+
+.blink-btn {
+    animation: blink 1s infinite;
+}
