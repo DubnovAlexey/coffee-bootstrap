@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+}
+
+/*body {*/
+/*    font-family: 'Raleway', sans-serif;*/
+/*    background-color: whitesmoke;*/
+/*}*/
+
+/*.header {*/
+/*    height: 400px;*/
+/*    background-image: url("../images/coffee-bgnd.jpeg");*/
+/*    background-position: center;*/
+/*    background-size: cover;*/
+
+/*}*/
+
+/*.header > h1 {*/
+/*    font-size: 100px;*/
+/*    font-family: "Covered By Your Grace", cursive;*/
+/*    color: rgba(3, 155, 100, 0.8);*/
+/*    text-align: center;*/
+/*    padding-top: 135px;*/
+
+/*}*/
+
+/*.main {*/
+/*    position: relative;*/
+/*    margin: 15px 0;*/
+/*    border-bottom: 1px solid #e4bb97;*/
+/*    padding-bottom: 15px;*/
+/*
+} */
+
+
+/*---------------------------*/
+/*.flex {*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*    flex-wrap: wrap;*/
+/*    justify-content: space-between;*/
+
+/*    .Kenya, .Costa_Rica, .Ethiopia, .India, .Brazil, .Colombia {*/
+/*        width: 49%;*/
+/*        margin: 15px 0;*/
+/*        text-align: center;*/
+/*        border-bottom: 1px solid #e4bb97;*/
+/*        padding-bottom: 15px;*/
+
+/*    }*/
+
+
+/*     h2 {*/
+/*        font-size: 28px;*/
+/*        font-weight: 700;*/
+/*        background-color: #aa8eb8;*/
+/*        text-align: center;*/
+/*        text-transform: uppercase;*/
+/*    }*/
+
+/*    p {*/
+/*        color: #445544;*/
+/*        !*#454;*!*/
+/*        font-weight: 500;*/
+/*        padding: 0 5px;*/
+/*        text-align: justify;*/
+/*        text-indent: 32px;*/
+/*        line-height: 1.5;*/
+/*    }*/
+
+/*    a:link {*/
+/*        color: #214e34;*/
+/*        font-weight: 700;*/
+/*        text-transform: uppercase;*/
+/*        text-decoration: none;*/
+/*        letter-spacing: 2px;*/
+/*    }*/
+
+/*    a:visited {*/
+/*        color: violet;*/
+/*    }*/
+
+/*    a:hover {*/
+/*        color: red;*/
+/*    }*/
+
+/*    a:active {*/
+/*        color: yellow;*/
+/*    }*/
+/*!*------------------------*!*/
+    /*.main > div {*/
+    /*    position: absolute;*/
+    /*    width: 49%;*/
+    /*    height:190px;*/
+    /*}*/
+    /*.Colombia{*/
+    /*    top: 0;*/
+
+    /*}*/
+    /*.Brazil{*/
+    /*    top: 190px;*/
+
+    /*}*/
+    /*.India{*/
+    /*    top: 380px;*/
+
+    /*}*/
+    /*.Ethiopia{*/
+    /*    left: 50%;*/
+    /*    top: 0;*/
+
+    /*}*/
+    /*.Costa_Rica{*/
+    /*    left: 50%;*/
+    /*    top: 190px;*/
+
+    /*}*/
+    /*.Kenya{*/
+    /*    left: 50%;*/
+    /*    top: 380px;*/
+
+    /*}*/
+
+    /*.main > div > div {*/
+    /*    width: 49%;*/
+    /*    height: 190px;*/
+    /*}*/
+
+    /*.l {*/
+
+    /*    position: relative;*/
+    /*    left: 0;*/
+    /*    top: 0;*/
+    /*}*/
+
+    /*.r {*/
+    /*    position: relative;*/
+    /*    left: 51%;*/
+    /*    bottom: 570px;*/
+
+    /*}*/
+
+/*    .footer {*/
+/*        height: 1px;*/
+/*        margin: 0 auto;*/
+/*    }*/
+/*!*}*!*/
+
