@@ -83,6 +83,8 @@ body {
 footer p {
     margin: 0;
 }
+
+
 .blink-btn {
     background-color: #ff6600;
     border: none;
@@ -94,9 +96,15 @@ footer p {
 
 
 @keyframes blink {
-    0%   { opacity: 1; }
-    50%  { opacity: 0.4; }
-    100% { opacity: 1; }
+    0% {
+        opacity: 3;
+    }
+    50% {
+        opacity: 0.1;
+    }
+    100% {
+        opacity: 3;
+    }
 }
 
 .blink-btn {
